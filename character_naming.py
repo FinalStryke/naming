@@ -9,7 +9,7 @@ misc_name = []
 jpop = ["Ayumi", "Hikaru", "Mao", "Atsuko", "Yuuko", "Lisa",
         "Hitomi", "Regina", "Kia", "Kanna", "An"]
 
-kpop_f = ["Lisa", "Jeannie", "Rose", "Rose", "Taeyeon", "Eunjung", "Hyomin", "Bom", "CL", "Dara", "Minzy"]
+kpop_f = ["Lisa", "Jeannie", "Rose", "Taeyeon", "Eunjung", "Hyomin", "Bom", "CL", "Dara", "Minzy"]
 
 kpop_m = ["G-Dragon", "T.O.P.", "Taeyang", "Daesung", "Jin", "Suga", "J-Hope", "RM", "Jimin", "V", "Jungkook"]
 
