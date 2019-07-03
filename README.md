@@ -3,7 +3,7 @@ A set of scripts for naming characters or objects.
 
 A base set of scripts for naming characters, or naming objects.
 
-character_naming includes lists of names, and chooses from them randomly. Not recommended for commerical use, as most of the names are taken from existing works.
+character_naming includes lists of names, and chooses from them randomly. Not recommended for commerical use, as most of the names are taken from existing works. Uses a method to remove duplicates, so it is not necessary to check the existing name lists before adding new names.
 
 ship_naming choses from lists to print out a string "The A of B", such as "The Fastness of Alexandria". Initially written to name ships in Sins of a Solar Empire.
 
