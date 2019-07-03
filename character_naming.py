@@ -314,7 +314,7 @@ while True:
         print(random.choice(female_unique))
         continue
     elif choice.lower() == "miscellaneous" or choice.lower() == "o" or choice.lower() == "misc" or choice.lower() == "other":
-        print(random.choice(misc_unique))
+        print(random.choice(other_unique))
         continue
     elif choice.lower() == "help" or choice.lower() == "h":
         print("Typing 'male' or 'm' generates a male name"
