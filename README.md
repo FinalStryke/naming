@@ -10,3 +10,5 @@ ship_naming choses from lists to print out a string "The A of B", such as "The F
 name_generator generates a new name from a list of phonemes, and as such is suitable for commercial use.
 
 word_maker generates a word from pure letters. As such, it will sometimes throw out something strange, but it is a good starting point.
+
+The prefixSuffix script is more for fun, combining random prefixes and suffixes.
